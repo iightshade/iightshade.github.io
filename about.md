@@ -6,3 +6,5 @@ title: About
 
 This page tells you a little bit about me.
 {% include navigation.html %}
+{% capture my_include %}{% include a_markdown_file.md %}{% endcapture %}
+
