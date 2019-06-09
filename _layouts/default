@@ -5,8 +5,8 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <a href="/">Home</a>
-    <a href="/about.html">About</a>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
     {% include navigation.html %}
     {{ content }}
   </body>
