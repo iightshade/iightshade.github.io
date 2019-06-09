@@ -5,7 +5,6 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <h2>{% include_relative navigation.html %}</h2>
     {{ content }}
   </body>
 </html>
