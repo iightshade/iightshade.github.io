@@ -5,4 +5,4 @@ title: About
 # About page
 
 This page tells you a little bit about me.
-{% include_relative navigation.html %}
+{% include navigation.html %}
